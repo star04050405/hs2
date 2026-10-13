@@ -1,0 +1,20 @@
+{
+  "name": "花少2旅行图鉴",
+  "short_name": "花少2图鉴",
+  "start_url": "./hs2.html",
+  "display": "standalone",
+  "background_color": "#FAF8F3",
+  "theme_color": "#C77E3A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
